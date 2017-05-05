@@ -1,3 +1,4 @@
+# To check the master agent setup is done successfully
 
 node "ip-172-31-15-72.us-west-2.compute.internal" {
     file { '/tmp/mastersuccess.txt' :
